@@ -122,6 +122,26 @@ body {
   margin-bottom: 100px;
 }
 
+/* optional styles */
+.optional {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1440px;
+  height: 320px;
+  margin: auto;
+  margin-bottom: 25px;
+
+  flex-shrink: 0;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+}
+
+.img {
+  padding-left: 50px;
+  /* align-items: center; */
+}
+
 /* hot deal styles */
 .hot-deal {
   max-height: 620px;
