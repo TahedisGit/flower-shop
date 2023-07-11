@@ -2,6 +2,7 @@
 body {
   font-family: Lato;
 }
+
 .btn-primary {
   display: inline-flex;
   padding: 20px 43px;
@@ -15,6 +16,7 @@ body {
   font-weight: 700;
 }
 
+/* header styles */
 .header {
   background-color: rgba(229, 84, 115, 0.1);
   width: 1920px;
@@ -45,8 +47,4 @@ body {
   font-weight: 400;
   line-height: 30px;
   margin-bottom: 25px;
-}
-
-.banner-content {
-  /* display: block; */
 }
