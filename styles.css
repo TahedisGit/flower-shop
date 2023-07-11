@@ -125,3 +125,18 @@ body {
   border-radius: 8px;
   background: rgba(229, 84, 115, 0.05);
 }
+
+/* instagram styles */
+.instagram {
+  padding: 70px 240px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: space-around;
+  background: #fff;
+}
+
+.rect-flower {
+  margin-right: 25px;
+}
